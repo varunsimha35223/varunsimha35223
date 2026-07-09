@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-AI Engineer with **4+ years** of experience building production-grade ML, NLP, and LLM agent systems across **healthcare, finance, and enterprise** domains. Currently at **Cigna Healthcare**, delivering HIPAA-compliant AI solutions that power real clinical workflows.
+AI Engineer with **5+ years** of experience building production-grade ML, NLP, and LLM agent systems across **healthcare, finance, and enterprise** domains. Currently at **Cigna Healthcare**, delivering HIPAA-compliant AI solutions that power real clinical workflows.
 
 ---
 

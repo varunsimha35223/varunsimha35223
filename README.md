@@ -28,7 +28,7 @@ AI Engineer with **5+ years** of experience building production-grade ML, NLP, a
   <tr>
     <td align="center"><b>35%</b><br/>Engagement Increase</td>
     <td align="center"><b>sub-200ms</b><br/>RAG Retrieval Latency</td>
-    <td align="center"><b>4+</b><br/>Years of Experience</td>
+    <td align="center"><b>5+</b><br/>Years of Experience</td>
     <td align="center"><b>3.8 / 4.0</b><br/>MS GPA (UNT)</td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ AI Engineer with **5+ years** of experience building production-grade ML, NLP, a
 | Period | Role | Company |
 |--------|------|---------|
 | May 2023 – Present | AI Engineer | **Cigna Healthcare** |
-| Jun 2021 – Jul 2022 | Machine Learning Engineer | **EMug Technologies** |
+| Jun 2020 – Jul 2022 | Machine Learning Engineer | **EMug Technologies** |
 
 ---
 

@@ -1,24 +1,28 @@
 <h1 align="center">Hi, I'm Varun Simha Reddy 👋</h1>
-<h3 align="center">AI Engineer · LLM Systems · RAG Architectures · Healthcare AI</h3>
+<h3 align="center">AI Engineer · Production RAG & Agentic AI · LLMOps · AI Agent Security</h3>
 
 <p align="center">
   <a href="https://varunsimhareddy.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/varun-simha-reddy-38a6761a5" target="_blank">
+  <a href="https://www.linkedin.com/in/varunreddy-38a6761a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:varunreddy92800@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Dallas%2C%20TX-4B9CD3?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Denton%2C%20TX-4B9CD3?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-AI Engineer with **5+ years** of experience building production-grade ML, NLP, and LLM agent systems across **healthcare, finance, and enterprise** domains. Currently at **Cigna Healthcare**, delivering HIPAA-compliant AI solutions that power real clinical workflows.
+I build AI systems that make it into production.
+
+I'm an AI Engineer specializing in **agentic AI** and **retrieval-augmented generation (RAG)**. Over the past two years I've designed and shipped LLM systems end-to-end: RAG pipelines, agentic workflows, and the LLMOps that keeps them reliable in production. Previously at **Cigna Healthcare**, currently at **SSC Signs & Lighting**.
+
+I also work on **AI agent security**. I built [MCPShield](https://github.com/varunsimha35223/mcpshield), an open-source scanner that catches tool-poisoning attacks in Model Context Protocol servers.
 
 ---
 
@@ -28,10 +32,21 @@ AI Engineer with **5+ years** of experience building production-grade ML, NLP, a
   <tr>
     <td align="center"><b>35%</b><br/>Engagement Increase</td>
     <td align="center"><b>sub-200ms</b><br/>RAG Retrieval Latency</td>
-    <td align="center"><b>5+</b><br/>Years of Experience</td>
+    <td align="center"><b>100K+</b><br/>Documents Indexed</td>
     <td align="center"><b>3.8 / 4.0</b><br/>MS GPA (UNT)</td>
   </tr>
 </table>
+
+---
+
+## 🔭 Featured Projects
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[MCPShield](https://github.com/varunsimha35223/mcpshield)** | Security scanner for MCP servers. Flags tool poisoning (hidden instructions, exfiltration, tool shadowing, invisible Unicode, rug pulls) before a server reaches your AI assistant. Deterministic, offline, SARIF output for CI. | Python · MCP · OAuth 2.1 · GitHub Actions |
+| **[Ask Your Data](https://github.com/varunsimha35223/ask-your-data)** | Ask a SaaS database questions in English and get the answer plus the exact SQL. Read-only execution, SELECT-only guardrail, and an execution-accuracy eval harness. | Claude · FastAPI · DuckDB |
+| **[AI Mail Manager](https://github.com/varunsimha35223/ai-email-manager)** | Connects to Gmail or Outlook, then categorizes email, flags urgent messages, drafts replies and builds a daily digest. [Live demo](https://ai-email-manager-seven.vercel.app) | Llama 3.3 · Groq · FastAPI · React |
+| **[StyleAI](https://github.com/varunsimha35223/style-ai)** | Clothing and color recommendations from three photos using vision models. | Gemini Vision · FastAPI · React |
 
 ---
 
@@ -44,6 +59,8 @@ AI Engineer with **5+ years** of experience building production-grade ML, NLP, a
 
 **AI / ML Frameworks**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF0000?style=flat-square&logoColor=white)
@@ -60,6 +77,8 @@ AI Engineer with **5+ years** of experience building production-grade ML, NLP, a
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -78,17 +97,17 @@ AI Engineer with **5+ years** of experience building production-grade ML, NLP, a
 
 | Period | Role | Company |
 |--------|------|---------|
-| May 2023 – Present | AI Engineer | **Cigna Healthcare** |
-| Jun 2020 – Jul 2022 | Machine Learning Engineer | **EMug Technologies** |
+| Apr 2026 – Present | Artificial Intelligence Engineer | **SSC Signs & Lighting** · Lewisville, TX |
+| Jul 2024 – Apr 2026 | AI Engineer | **Cigna Healthcare** · Dallas, TX |
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Score |
-|--------|-------------|-------|
-| MS in Artificial Intelligence | University of North Texas | GPA 3.8 / 4.0 |
-| B.Tech in Electronics & Communication | Jain University, Bangalore | CGPA 8.74 / 10.0 |
+| Degree | Institution | Period | Score |
+|--------|-------------|--------|-------|
+| MS in Artificial Intelligence | University of North Texas | Aug 2022 – May 2024 | GPA 3.8 / 4.0 |
+| B.Tech in Electronics & Communication | Jain University, Bangalore | Jun 2018 – Jul 2022 | CGPA 8.74 / 10.0 |
 
 ---
 

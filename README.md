@@ -31,8 +31,8 @@ I also work on **AI agent security**. I built [MCPShield](https://github.com/var
 <table align="center">
   <tr>
     <td align="center"><b>35%</b><br/>Engagement Increase</td>
-    <td align="center"><b>sub-200ms</b><br/>RAG Retrieval Latency</td>
-    <td align="center"><b>100K+</b><br/>Documents Indexed</td>
+    <td align="center"><b>700+</b><br/>Invoices Automated / Month</td>
+    <td align="center"><b>40 / day</b><br/>Drawing QC Reviews</td>
     <td align="center"><b>3.8 / 4.0</b><br/>MS GPA (UNT)</td>
   </tr>
 </table>
